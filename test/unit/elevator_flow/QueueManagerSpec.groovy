@@ -1,6 +1,7 @@
 package elevator_flow
 
 import grails.test.mixin.Mock
+import model.CSVExtractor
 import model.QueueManager
 import org.springframework.beans.factory.annotation.Autowired
 import spock.lang.Specification
@@ -11,20 +12,32 @@ import spock.lang.Specification
 @Mock([PersonQueue, Person, Queue, ElevatorLog])
 class QueueManagerSpec extends Specification {
 
-    @Autowired
     QueueManager queueManager = new QueueManager()
 
-    void 'test flow'(){
+    CSVExtractor csvExtractor = new CSVExtractor()
+
+
+    void 'test csv extraction to map'() {
+        when:
+        def array = this.csvExtractor.extract("grails-app/conf/elevadores.csv")
+        then:
+        assert array.size() == 1000
+        assert array.get(0).get("name") == "Wilhelmine Stracke PhD"
+        assert array.get(0).get("date") == "2016-08-31 10:00:00"
+        assert array.get(0).get("floor") == "20"
+    }
+
+    void 'test flow'() {
         setup:
-        def map = [["name":"1", "date" : "8/31/2016 10:00:00", "floor" : "20"],
-            ["name":"2", "date" : "8/31/2016 10:00:04", "floor" : "11"],
-            ["name":"3", "date" : "8/31/2016 10:00:10", "floor" : "21"],
-            ["name":"4", "date" : "8/31/2016 10:00:10", "floor" : "15"],
-            ["name":"5", "date" : "8/31/2016 10:00:11", "floor" : "11"],
-            ["name":"6", "date" : "8/31/2016 10:00:18", "floor" : "17"],
-            ["name":"7", "date" : "8/31/2016 10:00:20", "floor" : "13"],
-            ["name":"8", "date" : "8/31/2016 10:00:23", "floor" : "6"],
-            ["name":"9", "date" : "8/31/2016 10:00:29", "floor" : "21"]]
+        def map = [["name": "1", "date": "8/31/2016 10:00:00", "floor": "20"],
+                   ["name": "2", "date": "8/31/2016 10:00:04", "floor": "11"],
+                   ["name": "3", "date": "8/31/2016 10:00:10", "floor": "21"],
+                   ["name": "4", "date": "8/31/2016 10:00:10", "floor": "15"],
+                   ["name": "5", "date": "8/31/2016 10:00:11", "floor": "11"],
+                   ["name": "6", "date": "8/31/2016 10:00:18", "floor": "17"],
+                   ["name": "7", "date": "8/31/2016 10:00:20", "floor": "13"],
+                   ["name": "8", "date": "8/31/2016 10:00:23", "floor": "6"],
+                   ["name": "9", "date": "8/31/2016 10:00:29", "floor": "21"]]
         when:
         this.queueManager.createQueue(map)
         then:
