@@ -3,7 +3,6 @@ package elevator_flow
 import grails.test.mixin.Mock
 import model.CSVExtractor
 import model.QueueManager
-import org.springframework.beans.factory.annotation.Autowired
 import spock.lang.Specification
 
 /**
@@ -29,15 +28,15 @@ class QueueManagerSpec extends Specification {
 
     void 'test flow'() {
         setup:
-        def map = [["name": "1", "date": "8/31/2016 10:00:00", "floor": "20"],
-                   ["name": "2", "date": "8/31/2016 10:00:04", "floor": "11"],
-                   ["name": "3", "date": "8/31/2016 10:00:10", "floor": "21"],
-                   ["name": "4", "date": "8/31/2016 10:00:10", "floor": "15"],
-                   ["name": "5", "date": "8/31/2016 10:00:11", "floor": "11"],
-                   ["name": "6", "date": "8/31/2016 10:00:18", "floor": "17"],
-                   ["name": "7", "date": "8/31/2016 10:00:20", "floor": "13"],
-                   ["name": "8", "date": "8/31/2016 10:00:23", "floor": "6"],
-                   ["name": "9", "date": "8/31/2016 10:00:29", "floor": "21"]]
+        def map = [["name": "1", "date": "2016-8-31 10:00:00", "floor": "20"],
+                   ["name": "2", "date": "2016-8-31 10:00:04", "floor": "11"],
+                   ["name": "3", "date": "2016-8-31 10:00:10", "floor": "21"],
+                   ["name": "4", "date": "2016-8-31 10:00:10", "floor": "15"],
+                   ["name": "5", "date": "2016-8-31 10:00:11", "floor": "11"],
+                   ["name": "6", "date": "2016-8-31 10:00:18", "floor": "17"],
+                   ["name": "7", "date": "2016-8-31 10:00:20", "floor": "13"],
+                   ["name": "8", "date": "2016-8-31 10:00:23", "floor": "6"],
+                   ["name": "9", "date": "2016-8-31 10:00:29", "floor": "21"]]
         when:
         this.queueManager.createQueue(map)
         then:

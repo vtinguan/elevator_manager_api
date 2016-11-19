@@ -24,7 +24,7 @@ class QueueManager {
 
     public createQueue(List<HashMap> csvData) {
         Queue queue = new Queue(created: new Date()).save(failOnError: true)
-        DateFormat format = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss")
+        DateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss")
         csvData.each {
             Date date = format.parse(it['date'].toString())
             Person person = new Person(name: it['name'], floor: Integer.parseInt(it['floor'].toString()), created: date).save(failOnError: true)

@@ -1,0 +1,6006 @@
+{
+  "elevatorLog": {
+    "personDataResponses": [
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Wilhelmine Stracke PhD",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "30",
+        "personName": "Leola Osinski IV",
+        "total_time_in_seconds": "30",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Pietro Spencer",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Selmer Pollich",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Alec Beatty V",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Marlee Ferry",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Tyrel Thiel",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Mr. Nicholas Gutmann",
+        "total_time_in_seconds": "10",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Vida Lindgren IV",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Tiara Smitham",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Shanna Padberg",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Stephen Flatley",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Zack O'Kon",
+        "total_time_in_seconds": "14",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Talia Bosco DVM",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Blaise Orn",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Raven Hegmann",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "118",
+        "personName": "Marisa Stiedemann",
+        "total_time_in_seconds": "118",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Mireille Kemmer",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "36",
+        "personName": "Dr. Khalil Considine",
+        "total_time_in_seconds": "36",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Dr. Joe Schimmel",
+        "total_time_in_seconds": "10",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Marina Rempel",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Miss Frederick Miller",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Haskell Frami",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Vesta Tromp",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Ms. Alexandro Gibson",
+        "total_time_in_seconds": "10",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Eliseo Kirlin PhD",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "72",
+        "personName": "Blaise Haag V",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Mrs. Maribel Strosin",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Mason Blick",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Titus Schultz",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Maia Wolff",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Golden Hessel",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Cristobal Conroy",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Marcellus Nitzsche PhD",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Kian Stoltenberg",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Pattie Towne",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Casper Gislason",
+        "total_time_in_seconds": "48",
+        "wait_time_in_seconds": "40"
+      },
+      {
+        "deliver_time_in_seconds": "152",
+        "personName": "Dina Gerhold",
+        "total_time_in_seconds": "152",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Jarvis Abbott",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "72",
+        "personName": "Melyna Reynolds",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Kameron Watsica",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Maxime Hahn",
+        "total_time_in_seconds": "57",
+        "wait_time_in_seconds": "49"
+      },
+      {
+        "deliver_time_in_seconds": "130",
+        "personName": "Nikki Mraz",
+        "total_time_in_seconds": "130",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Patsy Veum",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Diamond West",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Alvena Hermiston",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Lavern Greenfelder",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Demarco Sawayn",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Marquise Hane",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Lawrence Cartwright II",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Leonora Monahan",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Ross Mayert",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Karley McLaughlin",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Irwin Borer",
+        "total_time_in_seconds": "38",
+        "wait_time_in_seconds": "30"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Nora Treutel PhD",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Alyce Buckridge",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Dr. Fletcher Lemke",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Francisca Hudson",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "70"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Sincere Hilll",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Mrs. Lila Goodwin",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "68",
+        "personName": "Delilah Murphy",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Jaime Adams DVM",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Kailyn Monahan V",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Alda Strosin",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Miss Gus Hintz",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Dimitri Rippin IV",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Nelda Hahn",
+        "total_time_in_seconds": "85",
+        "wait_time_in_seconds": "73"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Orin Stanton",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Ms. Rosetta Koch",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Javonte Kihn",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Vicente Moen II",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Daren Stoltenberg",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Myah Homenick",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Elissa Ward",
+        "total_time_in_seconds": "78",
+        "wait_time_in_seconds": "66"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Vita Brown",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Joelle Roob",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Hermann Kuvalis",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Kiara Koss PhD",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Rosa Tromp",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Emmitt Homenick",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Ms. Madison Bradtke",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Elda Boyle DDS",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Alvera Kerluke",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "110",
+        "personName": "Javier Kemmer",
+        "total_time_in_seconds": "110",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Twila Considine",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "18",
+        "personName": "Ms. Ricardo McGlynn",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "50"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Hollis Block",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Anais Langosh",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Gaston Gerlach",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "78"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Arnold Wiegand IV",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Tania Wolf",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Fiona Volkman",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Adrain Krajcik",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "152",
+        "personName": "Loma Quitzon Jr.",
+        "total_time_in_seconds": "152",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Mr. Hadley Erdman",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Buster Brown",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Ms. Zola Schoen",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Herbert Rath",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Raquel Bode DDS",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Levi Conroy",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "34",
+        "personName": "Dr. Gerhard Shanahan",
+        "total_time_in_seconds": "34",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Rusty Will",
+        "total_time_in_seconds": "37",
+        "wait_time_in_seconds": "29"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Mrs. Kurtis Borer",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "68",
+        "personName": "Ludwig Waelchi",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Vivian Grady",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "48",
+        "personName": "Briana Greenholt Sr.",
+        "total_time_in_seconds": "48",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Winona Ernser",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Fernando Altenwerth",
+        "total_time_in_seconds": "59",
+        "wait_time_in_seconds": "43"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Allen Blanda",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Miss Sedrick Fadel",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Torey Reynolds",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Sigrid Kerluke",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Willie Jacobs MD",
+        "total_time_in_seconds": "79",
+        "wait_time_in_seconds": "65"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Shaylee Walker",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Mr. Deonte Berge",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "General Stoltenberg",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Orval Goodwin",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Oral Paucek",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Casandra Dickens",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Augusta Kautzer MD",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Mrs. Jonathon Kemmer",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Belle Stehr II",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Mrs. Hailey Metz",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "54"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Jose Bins",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Chaim Kemmer",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "54",
+        "personName": "Dr. Berniece Feeney",
+        "total_time_in_seconds": "54",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Shanie Armstrong",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Madonna Gislason",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Jonas Quigley",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Mrs. Joannie Erdman",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Naomi Zboncak",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Rubie O'Hara",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Kaleb Hodkiewicz",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Emanuel Langosh",
+        "total_time_in_seconds": "55",
+        "wait_time_in_seconds": "47"
+      },
+      {
+        "deliver_time_in_seconds": "30",
+        "personName": "Enid Heaney",
+        "total_time_in_seconds": "30",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Iva Jakubowski",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Sharon Koss",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Damon Donnelly",
+        "total_time_in_seconds": "65",
+        "wait_time_in_seconds": "55"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Terrell Wintheiser",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Javier Franecki",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "68",
+        "personName": "Lucinda Kemmer",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Una Hessel",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Candice Willms",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "158",
+        "personName": "Larue Erdman",
+        "total_time_in_seconds": "158",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "56",
+        "personName": "Elwyn Parisian DVM",
+        "total_time_in_seconds": "56",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Toby Wyman II",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Eleanore Conroy III",
+        "total_time_in_seconds": "33",
+        "wait_time_in_seconds": "25"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Leilani Quitzon",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Mrs. Angelo Kuvalis",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Dandre Padberg",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "70",
+        "personName": "Marina Lindgren",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Baron Collins",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "34",
+        "personName": "Prince Gutkowski",
+        "total_time_in_seconds": "34",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Adan Walker",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Camryn Ullrich",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Einar Crona IV",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Blanca Torp",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "32"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Alvah Harber",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Antoinette Johns",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Quinton Gorczany",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Connor Schmitt",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "34"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Martina Kohler",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Cortney Terry",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Janelle Nitzsche",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Audreanne Bode",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Leda Lang",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Lew Marks V",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "152",
+        "personName": "June Jacobs",
+        "total_time_in_seconds": "152",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Paxton Bins",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "84"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Gideon Harris",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Arielle Abernathy IV",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Shirley Langosh",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "148",
+        "personName": "Lowell Windler",
+        "total_time_in_seconds": "148",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "32",
+        "personName": "Madyson Nienow",
+        "total_time_in_seconds": "32",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Rashad Klein",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Van Sanford",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Lilian Bechtelar",
+        "total_time_in_seconds": "71",
+        "wait_time_in_seconds": "61"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Mrs. Christelle Hickle",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Fredy Pouros",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Mr. Santiago Wintheiser",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Ashly Halvorson DVM",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Tomas Douglas",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "136",
+        "personName": "Osvaldo Balistreri",
+        "total_time_in_seconds": "136",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Zion Considine",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Coy Torphy",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Mrs. Allene Abshire",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "84"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Jade Gislason",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Oswald Schowalter",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Rudolph Johnston",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Caterina Stoltenberg",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Miss Theo Kiehn",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Rebeca Pouros MD",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "70",
+        "personName": "Donna Roberts",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Ms. Calista Wunsch",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "48",
+        "personName": "Lorenz Tromp III",
+        "total_time_in_seconds": "48",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Lucy Denesik",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "72"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Tyrell Weissnat",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "148",
+        "personName": "Earlene Beatty",
+        "total_time_in_seconds": "148",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Dr. Layla Ondricka",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Mrs. Dean McClure",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Dr. Anais Strosin",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Randy Rohan",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Monte Runte PhD",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "54"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Dustin Bradtke",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "30",
+        "personName": "Claudia Funk",
+        "total_time_in_seconds": "30",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Mrs. Milton Dicki",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Aiden Heidenreich",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Ms. Dimitri Veum",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Wayne Beahan",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Halie Bayer",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "18",
+        "personName": "Dr. Nathan Doyle",
+        "total_time_in_seconds": "76",
+        "wait_time_in_seconds": "58"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Cassandra Lynch",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Miss Daniella Greenfelder",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Dr. Breanna Franecki",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Evans Grant Sr.",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Christine Bahringer",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Nigel Schimmel",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "70",
+        "personName": "Carey Rowe",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Norma Schuster",
+        "total_time_in_seconds": "87",
+        "wait_time_in_seconds": "79"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Jacinthe Franecki Jr.",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Amani Lubowitz",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Alexander Williamson",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "150",
+        "personName": "Opal Stracke",
+        "total_time_in_seconds": "150",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Krista Wunsch",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Derek Huels Jr.",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Mozell Wintheiser",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Jacynthe Balistreri",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "32",
+        "personName": "Mr. Floyd Emard",
+        "total_time_in_seconds": "32",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Lourdes Stark",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Cecile Pfannerstill",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Miguel VonRueden",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Dillon Gleichner",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "32"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Cory Bayer",
+        "total_time_in_seconds": "50",
+        "wait_time_in_seconds": "34"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Zackary Hermann",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "72",
+        "personName": "Adeline Hills",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Ms. Joshua Trantow",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Mrs. Kaylie Hilpert",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "150",
+        "personName": "Elise Gulgowski",
+        "total_time_in_seconds": "150",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Bud Hirthe",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Royce Frami",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Franco Grant",
+        "total_time_in_seconds": "85",
+        "wait_time_in_seconds": "73"
+      },
+      {
+        "deliver_time_in_seconds": "92",
+        "personName": "Preston Harvey DVM",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Juwan Howell",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "34",
+        "personName": "Mitchell Rogahn",
+        "total_time_in_seconds": "34",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Omer Nienow",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Jovany Bergstrom",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Chelsie Medhurst",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Efren Buckridge",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Hannah Mann III",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "70",
+        "personName": "Stanford Adams",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Ali Farrell",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Rowland Brown",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Kacie Flatley",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Una Senger",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Xander Konopelski",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Leopold Hermann I",
+        "total_time_in_seconds": "71",
+        "wait_time_in_seconds": "61"
+      },
+      {
+        "deliver_time_in_seconds": "92",
+        "personName": "Nicolette Feest",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Pearl Kling",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Ms. Ben Yundt",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "148",
+        "personName": "Dustin Schmitt",
+        "total_time_in_seconds": "148",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Sallie Ortiz",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Miss Jean Runte",
+        "total_time_in_seconds": "59",
+        "wait_time_in_seconds": "47"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Dr. Stephen Toy",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Ms. Kade Metz",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Brooklyn Rice Jr.",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Dianna Hand",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Odell Robel",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "52",
+        "personName": "Celine Grimes",
+        "total_time_in_seconds": "52",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Lori Reichel",
+        "total_time_in_seconds": "91",
+        "wait_time_in_seconds": "83"
+      },
+      {
+        "deliver_time_in_seconds": "70",
+        "personName": "Ambrose Wyman",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "28",
+        "personName": "Birdie Maggio V",
+        "total_time_in_seconds": "28",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Mellie Rippin",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Morgan Haley",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Carlee Mayer",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "78"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Liza Moen",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Cooper Lemke",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Terrence Waelchi DVM",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Selena Sauer II",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Santino Wisoky",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Amanda Gulgowski",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Mossie McCullough",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Joesph O'Conner",
+        "total_time_in_seconds": "85",
+        "wait_time_in_seconds": "75"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "General Prosacco",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Miss Helene Hand",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Ewald Donnelly",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Vanessa Macejkovic I",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Demetrius Marquardt MD",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Nicola Schuppe",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Dr. Ima Dicki",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Ms. Candelario Halvorson",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "154",
+        "personName": "Abelardo Howe Sr.",
+        "total_time_in_seconds": "154",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Thea Wintheiser",
+        "total_time_in_seconds": "78",
+        "wait_time_in_seconds": "66"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Tony Konopelski Jr.",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Camille Ullrich V",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Delphia Hammes",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Graciela Murphy",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Raleigh Barrows",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Miss Trystan Schaefer",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Kaleb Walter",
+        "total_time_in_seconds": "67",
+        "wait_time_in_seconds": "51"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Modesto Satterfield",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "110",
+        "personName": "Dan Collier DVM",
+        "total_time_in_seconds": "110",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Amber McClure",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Alexane Kassulke",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Paula Hyatt",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Roselyn Kshlerin",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "114",
+        "personName": "Tremaine Fahey",
+        "total_time_in_seconds": "114",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Rebekah Cronin",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Ms. Presley Friesen",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Orrin Cole",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Mrs. Susanna Sauer",
+        "total_time_in_seconds": "52",
+        "wait_time_in_seconds": "42"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Jazmyne Keebler IV",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Houston Connelly",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "148",
+        "personName": "Eula McCullough",
+        "total_time_in_seconds": "148",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Miss Sallie Kreiger",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Keenan Graham",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Zetta Schultz III",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Eve Yundt III",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Elmo Durgan",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "56"
+      },
+      {
+        "deliver_time_in_seconds": "96",
+        "personName": "Ms. Laron Auer",
+        "total_time_in_seconds": "96",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Simeon Veum",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Miss Nedra Donnelly",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Bailee Johnson",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Estrella Smitham",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Dr. Nikki Champlin",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "56"
+      },
+      {
+        "deliver_time_in_seconds": "90",
+        "personName": "David Eichmann",
+        "total_time_in_seconds": "90",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Kendall Hegmann",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Miss Andres Kuhic",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Monroe Jenkins",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Ms. Jovanny McClure",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Kaitlin Bailey",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Madonna Jast",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Dr. Lea Feeney",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Celia Kozey",
+        "total_time_in_seconds": "43",
+        "wait_time_in_seconds": "35"
+      },
+      {
+        "deliver_time_in_seconds": "112",
+        "personName": "Orlando Armstrong",
+        "total_time_in_seconds": "112",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Mrs. Javonte Kessler",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Edward Langosh Jr.",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Mrs. Raoul Weimann",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Ms. Grayson Ernser",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "110",
+        "personName": "Mose Kris",
+        "total_time_in_seconds": "110",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Gennaro Christiansen",
+        "total_time_in_seconds": "83",
+        "wait_time_in_seconds": "75"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Otho McLaughlin",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Xander Mueller",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Antwan Zulauf",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Chesley Purdy",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Mia Mayer",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "64"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Oswaldo Zulauf",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Lulu Haag",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Jasen Turner",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "28",
+        "personName": "Krystina Greenholt",
+        "total_time_in_seconds": "28",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "70",
+        "personName": "Grady Hilpert",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Ivory Legros",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Chelsea Dare",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Rey Casper",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Summer Marvin",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Dr. Gilbert Langworth",
+        "total_time_in_seconds": "95",
+        "wait_time_in_seconds": "83"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Ida Schaefer",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "50",
+        "personName": "Ms. Wendell Weimann",
+        "total_time_in_seconds": "50",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Justus Bernier",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Charles Effertz",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Ms. Nichole Collier",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Annabelle Greenholt Sr.",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Jedidiah Kovacek",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Ellie Herzog II",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Mathias Bailey I",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "150",
+        "personName": "Baron Grimes",
+        "total_time_in_seconds": "150",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Olaf Zemlak",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Hermann Sipes",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Krystal Pouros",
+        "total_time_in_seconds": "53",
+        "wait_time_in_seconds": "39"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Dina Sipes I",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Mr. Francisca Friesen",
+        "total_time_in_seconds": "74",
+        "wait_time_in_seconds": "66"
+      },
+      {
+        "deliver_time_in_seconds": "112",
+        "personName": "Shaniya Swaniawski DDS",
+        "total_time_in_seconds": "112",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Aletha Lynch",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Gerard Weissnat Sr.",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Davonte Gibson",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Hoyt Lebsack",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Augusta Wunsch PhD",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Melvina Ferry",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Miss Madelynn Lebsack",
+        "total_time_in_seconds": "114",
+        "wait_time_in_seconds": "106"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Mr. Donavon Wisozk",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "92",
+        "personName": "Jena Upton",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Edison Ward",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Keon Will",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Miss Prudence Kuhn",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Ramona Marquardt",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Cameron Wilderman",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Antonetta Christiansen",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "148",
+        "personName": "Reyes Nolan",
+        "total_time_in_seconds": "148",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Kiera Halvorson DVM",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Dr. Orlo Mitchell",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Marietta Cummerata",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "May Gutmann II",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Joanne Corkery",
+        "total_time_in_seconds": "73",
+        "wait_time_in_seconds": "57"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Marilou Hoppe IV",
+        "total_time_in_seconds": "111",
+        "wait_time_in_seconds": "103"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Isidro Von",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Celine Hahn PhD",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Raina Renner IV",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Joelle Jast",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Marjolaine Dicki",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Enid Carroll",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Elyssa McLaughlin",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Miss Ola Hodkiewicz",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Colten Willms",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Willa Parker",
+        "total_time_in_seconds": "83",
+        "wait_time_in_seconds": "71"
+      },
+      {
+        "deliver_time_in_seconds": "32",
+        "personName": "Elva Jerde",
+        "total_time_in_seconds": "32",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Samara Rau",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Rahul Gottlieb MD",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "152",
+        "personName": "Mr. Ottilie Roob",
+        "total_time_in_seconds": "152",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Salvatore Kris",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "148",
+        "personName": "Kiara Hane III",
+        "total_time_in_seconds": "148",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Laisha Orn",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Dr. Tamara Jones",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Layne Gleason",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Taya Mante III",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Tyshawn Langosh",
+        "total_time_in_seconds": "48",
+        "wait_time_in_seconds": "34"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Gus Stark",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Dr. Petra Jones",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Lea Weimann",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Kelvin Veum",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Art Bergstrom",
+        "total_time_in_seconds": "35",
+        "wait_time_in_seconds": "27"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Cassandre Hand II",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "90",
+        "personName": "Mr. Tommie Osinski",
+        "total_time_in_seconds": "90",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Charlotte Rodriguez",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "74",
+        "personName": "Dr. Edna Herzog",
+        "total_time_in_seconds": "74",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Jessyca Nicolas",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "72",
+        "personName": "Raina Jacobi",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Maryse Bins",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Jerrell Hilll",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Maximo Toy Jr.",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Lavina Lubowitz",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Mr. Shany Goodwin",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Palma Yundt",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "14"
+      },
+      {
+        "deliver_time_in_seconds": "110",
+        "personName": "Miss Ryley Rice",
+        "total_time_in_seconds": "110",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Jolie Bednar DVM",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Payton Sawayn",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Olaf Conn",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Arne Shanahan PhD",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Leonor Klocko Sr.",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Ardella Swift",
+        "total_time_in_seconds": "78",
+        "wait_time_in_seconds": "56"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Edwardo Donnelly",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Kamron Thompson",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Maggie Denesik",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Vergie Stiedemann",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Merl Heathcote",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Lucinda Rutherford",
+        "total_time_in_seconds": "53",
+        "wait_time_in_seconds": "41"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Citlalli Tremblay",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Mallie Predovic",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "38",
+        "personName": "Patricia Hauck",
+        "total_time_in_seconds": "38",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Ms. Jaclyn Kshlerin",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Ralph Dickens",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Casimir Wolf",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Lester Tromp",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Sherwood Hodkiewicz MD",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Arlo O'Kon",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Mr. Weston Hoppe",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Dr. Alfred Hansen",
+        "total_time_in_seconds": "23",
+        "wait_time_in_seconds": "13"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Gerry Hammes",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Mrs. Shaun Crooks",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Emilio Jerde",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Mr. Ashley Kuvalis",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "48",
+        "personName": "Mr. Lilyan Bogan",
+        "total_time_in_seconds": "48",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Humberto Rippin",
+        "total_time_in_seconds": "61",
+        "wait_time_in_seconds": "51"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Rickey Greenfelder",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Magali Witting",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Mr. Ernestine Wolf",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Alaina Langosh Sr.",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Ines Johnston",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "68",
+        "personName": "Antwan Powlowski",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Amely Rau Sr.",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Watson Mayert",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "18",
+        "personName": "Hoyt Waelchi",
+        "total_time_in_seconds": "63",
+        "wait_time_in_seconds": "45"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Augustus Kutch",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Donnell Price",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Eduardo Kessler II",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "132",
+        "personName": "Gilda Predovic",
+        "total_time_in_seconds": "132",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Clyde Labadie",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Anya Halvorson",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Micaela Mann",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Sofia Fahey DDS",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Wyatt Daugherty",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Mr. Winifred Langosh",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "56"
+      },
+      {
+        "deliver_time_in_seconds": "114",
+        "personName": "Lucius Smith",
+        "total_time_in_seconds": "114",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Ms. Alison Feil",
+        "total_time_in_seconds": "76",
+        "wait_time_in_seconds": "68"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Elian Durgan",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Alanis Tillman",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Ned Howell",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Kathryn Wehner",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Nayeli Homenick PhD",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Sallie Koch",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "74",
+        "personName": "General Fadel",
+        "total_time_in_seconds": "74",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Mrs. Meggie Gleason",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "84"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Tate Beatty",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Frances Ward",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Providenci Conn",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "54",
+        "personName": "Lauretta Stehr",
+        "total_time_in_seconds": "54",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Coleman Hammes",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Dr. Eloise Schmidt",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "162",
+        "personName": "Rebecca Langworth",
+        "total_time_in_seconds": "162",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Llewellyn MacGyver",
+        "total_time_in_seconds": "69",
+        "wait_time_in_seconds": "57"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Lemuel Konopelski",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Kareem McGlynn",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Darrel Kunze",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Anderson Schaden",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Theo Waelchi",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Dylan Hudson",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Kiel Hodkiewicz",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Vern Reinger",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "76"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Carissa Kutch",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "74",
+        "personName": "Weldon Friesen",
+        "total_time_in_seconds": "74",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Jennyfer McKenzie",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Ronaldo Wyman",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Charity Effertz",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Fanny Daniel",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Meggie Hermiston PhD",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Estella Wiegand",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "70",
+        "personName": "Frederic Roob DDS",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Rollin Nolan IV",
+        "total_time_in_seconds": "47",
+        "wait_time_in_seconds": "35"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Arlie Morissette",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Velva Quitzon",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Ladarius Greenfelder II",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Miles Reinger",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Elliott Russel DDS",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Ava Nolan",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "112",
+        "personName": "Rebeka Conroy",
+        "total_time_in_seconds": "112",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Dr. Macie Littel",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Dr. Thomas Terry",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Tyson Lang",
+        "total_time_in_seconds": "43",
+        "wait_time_in_seconds": "33"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Santina Paucek",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Arianna Hills",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Jerrold Stehr",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Mr. Mattie Fay",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Germaine Koss",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "70",
+        "personName": "Susana Reinger",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Kristina Daniel",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "30",
+        "personName": "Mallie Carroll DDS",
+        "total_time_in_seconds": "30",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Lesley Kuhn",
+        "total_time_in_seconds": "25",
+        "wait_time_in_seconds": "15"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Athena Cummings",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Betty Oberbrunner DVM",
+        "total_time_in_seconds": "39",
+        "wait_time_in_seconds": "31"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Elijah Roob",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Leonard Sawayn",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Arlie Volkman MD",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Lori Kerluke",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Candelario Effertz",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "32",
+        "personName": "Virginia Altenwerth DDS",
+        "total_time_in_seconds": "32",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Serena Thiel",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Ashlee Gislason",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Bo Gutmann",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Dr. Devyn Grimes",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Roy Batz",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Trey Schroeder",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "150",
+        "personName": "Mrs. Emilia Bernhard",
+        "total_time_in_seconds": "150",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Mohamed Stamm",
+        "total_time_in_seconds": "10",
+        "wait_time_in_seconds": "2"
+      },
+      {
+        "deliver_time_in_seconds": "32",
+        "personName": "Dr. Rebeka Rosenbaum",
+        "total_time_in_seconds": "32",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Federico Howell",
+        "total_time_in_seconds": "59",
+        "wait_time_in_seconds": "51"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Dr. Kaley Bauch",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Miss Leonel Rippin",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Wilson Bartoletti",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Broderick Wintheiser",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Frankie Bayer",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Tristian Kris",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "152",
+        "personName": "Charley Ryan",
+        "total_time_in_seconds": "152",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Julia O'Keefe",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Muriel Mante",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Dean Rath",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "52",
+        "personName": "Maeve Kerluke",
+        "total_time_in_seconds": "52",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Richie Haag",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "36"
+      },
+      {
+        "deliver_time_in_seconds": "68",
+        "personName": "Taurean Moore",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Sean Hartmann",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Scot Rutherford",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Agnes Hudson",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Ms. Dovie Wehner",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Beth Maggio",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Cathryn Lubowitz",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Florencio Leuschke DDS",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Tracy Barrows",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Tyree Parker",
+        "total_time_in_seconds": "35",
+        "wait_time_in_seconds": "19"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Jay Trantow",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Ibrahim Jaskolski",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "28",
+        "personName": "Kacie Stanton",
+        "total_time_in_seconds": "28",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Amos VonRueden",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Angie Langosh",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Arielle Kautzer",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "132",
+        "personName": "Mable Russel",
+        "total_time_in_seconds": "132",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Alva Hickle DDS",
+        "total_time_in_seconds": "61",
+        "wait_time_in_seconds": "49"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Elmore Watsica",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Ms. Abbey Metz",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Augustine Connelly",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Wilton Wolff",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Mrs. Mona Moen",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "92",
+        "personName": "Araceli Morissette",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Lessie Pfannerstill",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "74"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Adrain Olson",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Garrick Mayert PhD",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Krista Corwin",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Madisyn Moore",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "150",
+        "personName": "Dr. Sylvia Hand",
+        "total_time_in_seconds": "150",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Mrs. Helena Nolan",
+        "total_time_in_seconds": "58",
+        "wait_time_in_seconds": "42"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Kayla Koepp",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Mr. Ron Russel",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Rosamond Legros DDS",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Garland Kub",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Mrs. Assunta Keebler",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Minerva Schamberger",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "150",
+        "personName": "Travis Donnelly",
+        "total_time_in_seconds": "150",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Margarette Kessler",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "132",
+        "personName": "Estella Blick",
+        "total_time_in_seconds": "132",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "18",
+        "personName": "Jordan Hoeger MD",
+        "total_time_in_seconds": "61",
+        "wait_time_in_seconds": "43"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Mrs. Travis Kuphal",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Terrance Crooks",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Camron Kuhn",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Dr. Bianka Lindgren",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Glenda Collins DDS",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Deborah DuBuque V",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Forrest Morissette",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "68",
+        "personName": "Johnathan Goldner",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Ms. Irving Conroy",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Libbie Steuber MD",
+        "total_time_in_seconds": "61",
+        "wait_time_in_seconds": "51"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Tillman Buckridge",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "156",
+        "personName": "Maia Blick",
+        "total_time_in_seconds": "156",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Kennedi Torphy",
+        "total_time_in_seconds": "49",
+        "wait_time_in_seconds": "41"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Rickie Stokes",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Jonatan McClure",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Ora Cartwright III",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Liam Wolf",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Vanessa Bailey",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Douglas Mertz",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Charlene Kling",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Irving Torp",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "50"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Cassandre Bradtke I",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "130",
+        "personName": "Woodrow Herman",
+        "total_time_in_seconds": "130",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Tony Pouros",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Floyd Anderson",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Mr. Pete Conroy",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "148",
+        "personName": "Antonia McLaughlin",
+        "total_time_in_seconds": "148",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "114",
+        "personName": "Evert Wintheiser",
+        "total_time_in_seconds": "114",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Stefan Franecki",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Dr. Lucy Reinger",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Mr. Gussie Mitchell",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Tressie Heaney",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Blake O'Connell",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Mrs. Felicity Bernier",
+        "total_time_in_seconds": "30",
+        "wait_time_in_seconds": "20"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Enos Gerlach",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Lexi Hoeger",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Granville Rosenbaum",
+        "total_time_in_seconds": "47",
+        "wait_time_in_seconds": "39"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Laurie Simonis",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Marlen Ferry",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "92",
+        "personName": "Graham Heathcote",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Tyrell Larson",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "72",
+        "personName": "Mrs. Rupert Hessel",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Lenore Torphy",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Myron Spinka",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Valerie Breitenberg",
+        "total_time_in_seconds": "47",
+        "wait_time_in_seconds": "39"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Marianna Green IV",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Ms. Krystel Huels",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Chaz Luettgen",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Dayne MacGyver",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Una Hackett Jr.",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Jillian O'Keefe",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Veda Gorczany",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Mr. Burley Schmeler",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Nathan Murphy",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "76",
+        "personName": "Nigel Becker",
+        "total_time_in_seconds": "76",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Willy Lemke",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "32"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Wilfrid Labadie",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Ms. Mireya Boyer",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Leonora Stracke",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Carter Langworth II",
+        "total_time_in_seconds": "53",
+        "wait_time_in_seconds": "39"
+      },
+      {
+        "deliver_time_in_seconds": "70",
+        "personName": "Jamel Dooley",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Mrs. Summer Weimann",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Gregorio Sipes",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Deonte Shanahan",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "50",
+        "personName": "Makenzie Doyle",
+        "total_time_in_seconds": "50",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Laurence Hane",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Keanu Champlin",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "152",
+        "personName": "Kaylah Marks",
+        "total_time_in_seconds": "152",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Kara Feil DVM",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Margret Johnston",
+        "total_time_in_seconds": "96",
+        "wait_time_in_seconds": "80"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Alexandrine Renner",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Jaydon Waelchi",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Rosina Cronin",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Horacio Beahan DDS",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Roselyn Lueilwitz",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Dusty Konopelski",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Shanie Rosenbaum",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "148",
+        "personName": "Delilah Walker",
+        "total_time_in_seconds": "148",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Vito Hagenes I",
+        "total_time_in_seconds": "50",
+        "wait_time_in_seconds": "42"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Ruth Keeling",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Taurean Murphy",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Kelli Rodriguez",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Fay Kihn",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Quinn Aufderhar",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Myrtice Stiedemann",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Fabiola Jerde",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "72",
+        "personName": "Zack Reilly",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Yessenia Bailey",
+        "total_time_in_seconds": "37",
+        "wait_time_in_seconds": "29"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Emerald Heidenreich Sr.",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Santos Reichel",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Joesph Hand",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Rosario Lang",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "90",
+        "personName": "Bernard Kautzer I",
+        "total_time_in_seconds": "90",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Joannie Kuhn",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Christop Conn",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "50",
+        "personName": "Jon Cole",
+        "total_time_in_seconds": "50",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Sydni Ryan",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "48"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Michale Ullrich",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Mrs. Rex Rohan",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Mr. Chasity Rogahn",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Mr. Reagan Lind",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Amina Stehr",
+        "total_time_in_seconds": "61",
+        "wait_time_in_seconds": "53"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Coleman Christiansen",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Marcos Powlowski",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Marcella Bruen",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "76",
+        "personName": "Rosa Kovacek",
+        "total_time_in_seconds": "76",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Rasheed Schneider DVM",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Crystel Prosacco DDS",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Miss Rylee Vandervort",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Marisol Murphy",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Tommie Kuhlman",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "72",
+        "personName": "Name Cremin",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Federico Marquardt",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Joshua Champlin I",
+        "total_time_in_seconds": "53",
+        "wait_time_in_seconds": "45"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Lew Reilly DDS",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Mateo Schultz",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Emmanuel Ward",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Weston Pollich",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Assunta Schuster",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "48"
+      },
+      {
+        "deliver_time_in_seconds": "28",
+        "personName": "Amy Veum",
+        "total_time_in_seconds": "28",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Macey Gaylord",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Isobel Spencer II",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "32",
+        "personName": "Greta Cremin",
+        "total_time_in_seconds": "32",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Bruce Kunze",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "134",
+        "personName": "Ubaldo Koepp III",
+        "total_time_in_seconds": "134",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Ivy Balistreri I",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Mr. Christelle Powlowski",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Stephan Waters",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Weston Lind",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Amely Osinski",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "34"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Meggie Dicki",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Reyna Hammes",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Emmet Herman",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "18",
+        "personName": "Peyton Mayer",
+        "total_time_in_seconds": "81",
+        "wait_time_in_seconds": "63"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Tom Lemke",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "90",
+        "personName": "Lurline Marquardt",
+        "total_time_in_seconds": "90",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Allen O'Connell",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Brycen Stark Jr.",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "110",
+        "personName": "Humberto McGlynn",
+        "total_time_in_seconds": "110",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Daisy Jacobi",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Briana Beahan DDS",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Brain Jacobi",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Irving Ankunding",
+        "total_time_in_seconds": "41",
+        "wait_time_in_seconds": "27"
+      },
+      {
+        "deliver_time_in_seconds": "52",
+        "personName": "Mavis Kertzmann",
+        "total_time_in_seconds": "52",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Glen Lubowitz",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Lorine Blick",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Sterling Schimmel",
+        "total_time_in_seconds": "56",
+        "wait_time_in_seconds": "48"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Brittany Schaefer",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Adrian Ziemann PhD",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Sunny Kautzer",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Mellie Harber",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Maya Lueilwitz",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Baby Crooks DDS",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Alexa Watsica",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Miss Javier Mayer",
+        "total_time_in_seconds": "73",
+        "wait_time_in_seconds": "63"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Dandre Rohan",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Tre Strosin",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Tony Dach",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Nathanial Heller",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Kaylah Abshire",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "74",
+        "personName": "Chadd Wolf",
+        "total_time_in_seconds": "74",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Yvonne Runolfsdottir",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Opal Harris",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Flo O'Keefe",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Mariam Oberbrunner",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Lucio Bins",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Arlene McCullough",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "18",
+        "personName": "Frederik Boyer",
+        "total_time_in_seconds": "37",
+        "wait_time_in_seconds": "19"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Britney Rowe",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Jocelyn Hahn",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Meagan Breitenberg",
+        "total_time_in_seconds": "96",
+        "wait_time_in_seconds": "86"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Anika Mills",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Georgianna Mohr",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Floyd Wehner",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "28",
+        "personName": "Phyllis Hyatt DVM",
+        "total_time_in_seconds": "28",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "50",
+        "personName": "Terrell Wilderman",
+        "total_time_in_seconds": "50",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Gladyce Braun DVM",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Andres Schamberger",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Ms. Bettye Schmeler",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "66"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Henderson Yundt I",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Leopoldo Schoen Jr.",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "90",
+        "personName": "Kianna Marquardt",
+        "total_time_in_seconds": "90",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Chaz Green",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Haylie Walker",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Reed Ferry",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Rahsaan Terry",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Alberta Larson",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Hadley Dibbert",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Chanel Raynor",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Ms. Edgar Grady",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "156",
+        "personName": "Ms. Isac Miller",
+        "total_time_in_seconds": "156",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Alford Langworth Jr.",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "36"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Miss Elijah Hilll",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Berneice Rolfson",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Miss Leola Thompson",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "36"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Antonia Wuckert",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "148",
+        "personName": "Mrs. Arely Treutel",
+        "total_time_in_seconds": "148",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Treva Ebert",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Gardner Hettinger",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Martina Crooks II",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Bethel Gibson",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "28",
+        "personName": "Miss Eulalia Gleason",
+        "total_time_in_seconds": "28",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Mrs. Nathan Corkery",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "16",
+        "personName": "Dario Heller",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "84"
+      },
+      {
+        "deliver_time_in_seconds": "86",
+        "personName": "Ms. Shaina Gleichner",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "130",
+        "personName": "Lorenz Larkin V",
+        "total_time_in_seconds": "130",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Garth Hansen",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Brandon Collins",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Berry Crona IV",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Gertrude Wisoky",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Lolita Lebsack",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Cheyenne Volkman MD",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "92",
+        "personName": "Meggie Reilly",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Mr. Verdie Olson",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Dr. Yoshiko Grimes",
+        "total_time_in_seconds": "26",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Miss Hyman Buckridge",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "76"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Frank Hackett",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Mr. Loyal McClure",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Caleb Towne",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Gaston Lynch",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "32",
+        "personName": "Violette Ankunding",
+        "total_time_in_seconds": "32",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "152",
+        "personName": "Theo Lemke",
+        "total_time_in_seconds": "152",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Marina Lynch",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Constance DuBuque",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Sonny Lehner III",
+        "total_time_in_seconds": "95",
+        "wait_time_in_seconds": "83"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Kassandra Feest",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Ivy Bauch",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Dr. Alec D'Amore",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Reid Beier",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "30",
+        "personName": "Hershel VonRueden",
+        "total_time_in_seconds": "30",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Kacie McCullough",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Ms. Vesta Swaniawski",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Miss Gordon Schultz",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "36"
+      },
+      {
+        "deliver_time_in_seconds": "90",
+        "personName": "Miss Genesis Runte",
+        "total_time_in_seconds": "90",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Marc Cremin V",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Ena Schumm I",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "60"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Doris Connelly",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Mrs. Odell Nolan",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Stephen Mayert",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Mr. Meta Hudson",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Irving Green",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Stan Lubowitz",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "150",
+        "personName": "Gussie Kulas Sr.",
+        "total_time_in_seconds": "150",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Ilene Lemke",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Marisa Rogahn II",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Lew Beahan",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "56"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Maybell Paucek",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Rafaela Kessler I",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Lurline Dibbert",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Nellie Reichel DVM",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Erika Stiedemann Jr.",
+        "total_time_in_seconds": "70",
+        "wait_time_in_seconds": "60"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Nikko Hahn",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Rickie Schamberger",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Kenyatta Douglas",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Annetta Harris III",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Freda Huels",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Elena Wintheiser MD",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "32",
+        "personName": "Amani Batz II",
+        "total_time_in_seconds": "32",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "150",
+        "personName": "Mr. Freddie O'Connell",
+        "total_time_in_seconds": "150",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Cole Beatty I",
+        "total_time_in_seconds": "65",
+        "wait_time_in_seconds": "57"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Laurine Jacobs MD",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Albin Dibbert IV",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Ms. Crystel McClure",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Lorenz Hoeger",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Clyde Weissnat",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Craig Labadie",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "90",
+        "personName": "Ms. Sidney Leannon",
+        "total_time_in_seconds": "90",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "46",
+        "personName": "Howell Klein",
+        "total_time_in_seconds": "46",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Giuseppe Morar",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Wilhelm Stracke",
+        "total_time_in_seconds": "87",
+        "wait_time_in_seconds": "73"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Josephine Murray",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Lorna Botsford",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Helen O'Hara",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Talon Pfeffer",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "18",
+        "personName": "Sharon Bayer",
+        "total_time_in_seconds": "78",
+        "wait_time_in_seconds": "60"
+      },
+      {
+        "deliver_time_in_seconds": "104",
+        "personName": "Allison Cormier",
+        "total_time_in_seconds": "104",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "68",
+        "personName": "Ms. Keven Wilderman",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Miss Delbert Daniel",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "132",
+        "personName": "Mr. Dagmar Dare",
+        "total_time_in_seconds": "132",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Adele Crooks",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Milan Nicolas",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Darrin Schneider",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "50",
+        "personName": "Loraine Anderson",
+        "total_time_in_seconds": "50",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Tremayne Doyle",
+        "total_time_in_seconds": "77",
+        "wait_time_in_seconds": "69"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Creola Schmitt",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Velda Lueilwitz",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Berry Bayer",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "152",
+        "personName": "Shirley Graham",
+        "total_time_in_seconds": "152",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Dorthy Koelpin",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Hilbert Cartwright",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "74",
+        "personName": "Levi Murphy",
+        "total_time_in_seconds": "74",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "14",
+        "personName": "Elwin Corkery",
+        "total_time_in_seconds": "52",
+        "wait_time_in_seconds": "38"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Miss Jack Cronin",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Herminia Batz",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Kathryne Simonis",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Ms. Napoleon Lubowitz",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Rebeca Jast",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Earlene Schoen",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "44",
+        "personName": "Levi Breitenberg",
+        "total_time_in_seconds": "44",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Jalen Skiles",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Dr. Gilda Murazik",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "58"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Harmon Herman",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Cody Wunsch",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Demarco Will",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Milan Bosco",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "80",
+        "personName": "Verla Hane",
+        "total_time_in_seconds": "80",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Adeline Haley I",
+        "total_time_in_seconds": "97",
+        "wait_time_in_seconds": "75"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Pink Reinger",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Justyn Sawayn",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Susie Gibson Jr.",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Estevan Friesen",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Maybelle Walker MD",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "128",
+        "personName": "Jermaine Ankunding",
+        "total_time_in_seconds": "128",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Colt Kemmer",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "50",
+        "personName": "Ms. Antwon Wintheiser",
+        "total_time_in_seconds": "50",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Nola Wintheiser",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "82"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Mr. Eleazar Trantow",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Olga Zboncak",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "64",
+        "personName": "Mr. Susan Predovic",
+        "total_time_in_seconds": "64",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Morgan Rice",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "92",
+        "personName": "Devan Gulgowski",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "100",
+        "personName": "Modesta Breitenberg",
+        "total_time_in_seconds": "100",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "38",
+        "personName": "Keara Larkin",
+        "total_time_in_seconds": "38",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Maxwell Rice",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Walton Ernser",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Gussie Pouros",
+        "total_time_in_seconds": "86",
+        "wait_time_in_seconds": "78"
+      },
+      {
+        "deliver_time_in_seconds": "112",
+        "personName": "Mrs. Earlene Brown",
+        "total_time_in_seconds": "112",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "120",
+        "personName": "Kaya Ratke",
+        "total_time_in_seconds": "120",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Ms. Heidi Kris",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Cydney Reynolds",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Alize Renner",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "62"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Jake Prohaska",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Lesly Lynch",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Mrs. Callie Hammes",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "40",
+        "personName": "Schuyler Pagac IV",
+        "total_time_in_seconds": "40",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Lou Gislason PhD",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Ms. Margarita Ward",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "132",
+        "personName": "Stan Predovic",
+        "total_time_in_seconds": "132",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Jason Kiehn",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Mr. Kailee Sauer",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Mrs. Axel Koepp",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Leola Greenholt",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Selena Gaylord DDS",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Perry Bednar",
+        "total_time_in_seconds": "72",
+        "wait_time_in_seconds": "64"
+      },
+      {
+        "deliver_time_in_seconds": "68",
+        "personName": "Ethan Wintheiser III",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "38",
+        "personName": "Fredrick Pfannerstill",
+        "total_time_in_seconds": "38",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Rowland Rice",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Gladys Hagenes",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Friedrich Will",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Cullen Doyle I",
+        "total_time_in_seconds": "73",
+        "wait_time_in_seconds": "65"
+      },
+      {
+        "deliver_time_in_seconds": "68",
+        "personName": "Sidney Swift",
+        "total_time_in_seconds": "68",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Kobe Dietrich",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "92",
+        "personName": "Naomi Schulist",
+        "total_time_in_seconds": "92",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Amalia Dicki",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "82",
+        "personName": "Terrence Oberbrunner",
+        "total_time_in_seconds": "82",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Alexandria Volkman",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "60",
+        "personName": "Gerry Metz",
+        "total_time_in_seconds": "60",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "24",
+        "personName": "Aleen Wyman",
+        "total_time_in_seconds": "24",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Jovan Becker",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Everardo Breitenberg",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "124",
+        "personName": "Brain Walker",
+        "total_time_in_seconds": "124",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "26",
+        "personName": "Georgiana Feil",
+        "total_time_in_seconds": "57",
+        "wait_time_in_seconds": "31"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Lorna Tromp",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Ms. Brady Jacobson",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Daren Rau",
+        "total_time_in_seconds": "74",
+        "wait_time_in_seconds": "66"
+      },
+      {
+        "deliver_time_in_seconds": "88",
+        "personName": "Asha Collier",
+        "total_time_in_seconds": "88",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "136",
+        "personName": "Brent Luettgen",
+        "total_time_in_seconds": "136",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "108",
+        "personName": "Odie Walsh",
+        "total_time_in_seconds": "108",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Holden Vandervort",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "140",
+        "personName": "Adolfo Morissette",
+        "total_time_in_seconds": "140",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Mr. Anthony Gutmann",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Juliana Ullrich",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "146",
+        "personName": "Trinity Walter",
+        "total_time_in_seconds": "146",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "8",
+        "personName": "Janis Klein Jr.",
+        "total_time_in_seconds": "53",
+        "wait_time_in_seconds": "45"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Lacey Yundt",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Wyatt Strosin",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "138",
+        "personName": "Alessia Gutmann IV",
+        "total_time_in_seconds": "138",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "62",
+        "personName": "Annamarie Hegmann",
+        "total_time_in_seconds": "62",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Nicholaus Hills",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "10",
+        "personName": "Earnest Ruecker",
+        "total_time_in_seconds": "54",
+        "wait_time_in_seconds": "44"
+      },
+      {
+        "deliver_time_in_seconds": "142",
+        "personName": "Makenzie Boyer",
+        "total_time_in_seconds": "142",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "102",
+        "personName": "Janis Kutch Sr.",
+        "total_time_in_seconds": "102",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "122",
+        "personName": "Napoleon Pagac",
+        "total_time_in_seconds": "122",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "50",
+        "personName": "Mohammed Wilkinson",
+        "total_time_in_seconds": "50",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Francesca Marks",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "20",
+        "personName": "Pete Conroy",
+        "total_time_in_seconds": "20",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "106",
+        "personName": "Ms. Angelo Reichel",
+        "total_time_in_seconds": "106",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "144",
+        "personName": "Scot Grant",
+        "total_time_in_seconds": "144",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "42",
+        "personName": "Leola Cummings",
+        "total_time_in_seconds": "42",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "126",
+        "personName": "Yoshiko Lueilwitz",
+        "total_time_in_seconds": "126",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "84",
+        "personName": "Katarina Cronin",
+        "total_time_in_seconds": "84",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "22",
+        "personName": "Ansel Littel",
+        "total_time_in_seconds": "22",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "66",
+        "personName": "Coby Smith",
+        "total_time_in_seconds": "66",
+        "wait_time_in_seconds": "0"
+      },
+      {
+        "deliver_time_in_seconds": "12",
+        "personName": "Arlie Christiansen",
+        "total_time_in_seconds": "36",
+        "wait_time_in_seconds": "24"
+      }
+    ]
+  }
+}

@@ -1,8 +1,11 @@
 package model
 
+import org.springframework.stereotype.Component
+
 /**
  * Created by tinguan on 19/11/16.
  */
+@Component
 class CSVExtractor {
 
     public List<HashMap> extract(String path) {
