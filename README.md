@@ -36,7 +36,8 @@ The response is something like this for each elevator user <br />
         "total_time_in_seconds": "126",
         "wait_time_in_seconds": "0"
       }
-</code>
+</code> <br />
+And you can also check the database tables <b> person_queue and elevator_log </b> to see these data in Date instead seconds and check every elevator track in the queue.
 
 # BUUUT, IF YOU WANT THE TL;DR 
 The business logic (elevators management) is in this [class](https://github.com/vtinguan/elevator_manager_api/blob/master/src/groovy/model/QueueManager.groovy) <br />
